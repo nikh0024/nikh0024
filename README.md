@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**nikh0024/nikh0024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Nikhil 
 
-Here are some ideas to get you started:
+I'm a first-year B.Tech student currently learning Python and exploring data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I know
+
+   Python
+   NumPy
+   Pandas
+   Matplotlib
+   Seaborn
+   Git & GitHub
+   Basic CSV/data handling
+
+My Projects
+
+   Student Data Analyzer
+
+A small Python project I made while learning Pandas. It reads student marks from a CSV file and calculates totals, percentages, averages, and other basic statistics.
+
+What I'm working on
+
+Currently improving my Python skills and trying to build more small projects.
